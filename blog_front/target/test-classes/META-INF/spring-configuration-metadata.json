@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "oss",
+      "type": "com.czd.OSSTest",
+      "sourceType": "com.czd.OSSTest"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
